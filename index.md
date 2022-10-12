@@ -1,7 +1,8 @@
 ##copenhagen by day##
+
 **Short description of survival**
 ####Basic rules for a Copenhagen survival####
-They often include more weather-focused rules than human-focused rules. But still, some basics have to be remembered:
+These rules often include more weather-focused rules than human-focused rules. But still, some basics have to be remembered:
 <ol>
 <li>mind the bikes - it's more probable to get run over by a bike than a car</li>
 <li>get a bike - your own bike will is the fastest way to deal with the distances</li>
