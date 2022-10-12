@@ -1,5 +1,12 @@
-##copenhagen by day
-***short description
-****a step-by-step guide for urban survival****
-* more and more people are trying to figure out everyday living in Copenhagen *
-![copenhagen]https://www.travelandleisure.com/thmb/FIQFCoAFlqQiznFPUdqdqlVGHBc=/2250x0/filters:no_upscale():max_bytes(150000):strip_icc():gifv():format(webp)/copenhagen-dk-COPENHAGENTG0721-4a481cb6025b43d1a781b1571b144f46.jpg)
+##copenhagen by day##
+**Short description of survival**
+####Basic rules for a Copenhagen survival####
+They often include more weather-focused rules than human-focused rules. But still, some basics have to be remembered:
+<li>mind the bikes - it's more probable to get run over by a bike than a car</li>
+<li>get a bike - your own bike will is the fastest way to overwhelm distances</li>
+<li>mind the weather - your iPhone weather forcast says it will be sunny. Think again and be prepared with a good raincoat. Weather in Copenhagen is sometimes frivolous</li>
+<li>get a camera - more than often, there's a view worth taking a photo of</li>
+
+
+####Basic rules for a Copenhagen night survival####
+The same, but in the dark, but just put some lights on your bike while riding it.
