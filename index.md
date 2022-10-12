@@ -10,3 +10,4 @@ They often include more weather-focused rules than human-focused rules. But stil
 
 ####Basic rules for a Copenhagen night survival####
 The same, but in the dark, but just put some lights on your bike while riding it.
+We need a photo o the city - one by day and one by night.
