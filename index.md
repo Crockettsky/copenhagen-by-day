@@ -14,3 +14,6 @@ These rules often include more weather-focused rules than human-focused rules. B
 ####Basic rules for a Copenhagen night survival####
 The same, but in the dark, but just put some lights on your bike while riding it.
 We need a photo of the city - one by day and one by night.
+
+####Swimming in the canals####
+It's a splendid way to break the hot summer days in two. Yeah, it's a Scandinavian country but they still have summer. So, swimming in the canals is a way of give your respects to the local ritches. It's not just a regular canal like in Venice. The water is clear and very often, one can see the bottom of the canal.
